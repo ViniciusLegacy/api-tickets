@@ -1,0 +1,12 @@
+{
+  "name": "api_tickets",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de tickets de suporte.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Vinícius Leandro",
+  "license": "ISC",
+  "type": "module"
+}
